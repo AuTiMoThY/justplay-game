@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="icon_delete" transform="translate(-17398 12885)">
+    <g id="garbage" transform="translate(17405 -12879)">
+      <g id="Group_1168" data-name="Group 1168">
+        <g id="Group_1167" data-name="Group 1167">
+          <path id="Path_507" data-name="Path 507" d="M46.82,2.344H43.3V1.758A1.76,1.76,0,0,0,41.547,0H38.031a1.76,1.76,0,0,0-1.758,1.758v.586H32.758A1.76,1.76,0,0,0,31,4.1V5.273a.586.586,0,0,0,.586.586h.632L33.249,18.4V18.4A1.749,1.749,0,0,0,35,20h9.578a1.749,1.749,0,0,0,1.751-1.6V18.4L47.36,5.859h.632a.586.586,0,0,0,.586-.586V4.1A1.76,1.76,0,0,0,46.82,2.344Zm-9.375-.586a.587.587,0,0,1,.586-.586h3.516a.587.587,0,0,1,.586.586v.586H37.445ZM45.162,18.3a.583.583,0,0,1-.583.531H35a.583.583,0,0,1-.583-.531L33.394,5.859h12.79Zm2.245-13.61H32.172V4.1a.587.587,0,0,1,.586-.586H46.82a.587.587,0,0,1,.586.586Z" transform="translate(-31)" fill="#959595"/>
+        </g>
+      </g>
+      <g id="Group_1170" data-name="Group 1170" transform="translate(8.203 7.031)">
+        <g id="Group_1169" data-name="Group 1169">
+          <path id="Path_508" data-name="Path 508" d="M241.586,180a.586.586,0,0,0-.586.586v8.281a.586.586,0,0,0,1.172,0v-8.281A.586.586,0,0,0,241.586,180Z" transform="translate(-241 -180)" fill="#959595"/>
+        </g>
+      </g>
+      <g id="Group_1172" data-name="Group 1172" transform="translate(11.719 7.031)">
+        <g id="Group_1171" data-name="Group 1171">
+          <path id="Path_509" data-name="Path 509" d="M331.586,180a.586.586,0,0,0-.586.586v8.281a.586.586,0,0,0,1.172,0v-8.281A.586.586,0,0,0,331.586,180Z" transform="translate(-331 -180)" fill="#959595"/>
+        </g>
+      </g>
+      <g id="Group_1174" data-name="Group 1174" transform="translate(4.688 7.031)">
+        <g id="Group_1173" data-name="Group 1173">
+          <path id="Path_510" data-name="Path 510" d="M151.586,180a.586.586,0,0,0-.586.586v8.281a.586.586,0,0,0,1.172,0v-8.281A.586.586,0,0,0,151.586,180Z" transform="translate(-151 -180)" fill="#959595"/>
+        </g>
+      </g>
+    </g>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(17398 -12885)" fill="none" stroke="#959595" stroke-width="1" opacity="0">
+      <rect width="32" height="32" stroke="none"/>
+      <rect x="0.5" y="0.5" width="31" height="31" fill="none"/>
+    </g>
+  </g>
+</svg>

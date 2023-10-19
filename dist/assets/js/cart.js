@@ -1,0 +1,1 @@
+function plus(l){let n=parseInt($("#"+l).val());$("#"+l).val(n+1)}function minus(l){let n=parseInt($("#"+l).val());n>1&&$("#"+l).val(n-1)}

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="icon_logout" transform="translate(20020 21871)">
+    <circle id="Ellipse_32" data-name="Ellipse 32" cx="20" cy="20" r="20" transform="translate(-20020 -21871)" fill="none"/>
+    <circle id="Ellipse_33" data-name="Ellipse 33" cx="20" cy="20" r="20" transform="translate(-20020 -21871)" fill="none"/>
+    <g id="log-out" transform="translate(-20010 -21861.143)">
+      <g id="Group_536" data-name="Group 536" transform="translate(0.011 0.142)">
+        <g id="Group_535" data-name="Group 535" transform="translate(0 0)">
+          <path id="Path_393" data-name="Path 393" d="M17.94.142H2.628A2.346,2.346,0,0,0,.284,2.486V5.611H1.847V2.486A.782.782,0,0,1,2.628,1.7H17.94a.782.782,0,0,1,.781.781V17.8a.782.782,0,0,1-.781.781H2.628a.782.782,0,0,1-.781-.781V14.673H.284V17.8a2.346,2.346,0,0,0,2.344,2.344H17.94A2.346,2.346,0,0,0,20.284,17.8V2.486A2.346,2.346,0,0,0,17.94.142Z" transform="translate(-0.284 -0.142)" fill="#1a1a1a"/>
+        </g>
+      </g>
+      <g id="Group_538" data-name="Group 538" transform="translate(0 5.287)">
+        <g id="Group_537" data-name="Group 537">
+          <path id="Path_394" data-name="Path 394" d="M14.23,135.859H2.991L5.96,132.89l-1.1-1.1L0,136.64l4.855,4.855,1.1-1.1-2.969-2.969H14.23Z" transform="translate(0 -131.785)" fill="#1a1a1a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

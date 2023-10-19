@@ -1,0 +1,30 @@
+@import "source/main";
+
+.btn.more span {
+    justify-content: center;
+
+    svg {
+        position: absolute;
+        top: 50%;
+        right: 1rem;
+        translate: 0 -50%;
+    }
+}
+
+.recaptcha_field .justplayGame_field-ctrler {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.recaptcha_field .form-control {
+    border-radius: 8px 0 0 8px;
+}
+
+.recaptcha_field img {
+    border: none;
+    width: 180px;
+    height: 58px;
+    border-radius: 0 8px 8px 0;
+    background-color: #d8d8d8;
+}
