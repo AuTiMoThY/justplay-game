@@ -10,7 +10,7 @@
     <meta property="og:description" name="description" content="">
     <meta property="og:image" content="assets/image/logo.webp" />
 
-    <link rel="stylesheet" href="assets/css/index.css">
+    <link rel="stylesheet" href="assets/css/index.css?v=20231025.1">
 </head>
 
 <body>

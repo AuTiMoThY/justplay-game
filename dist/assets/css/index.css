@@ -399,7 +399,7 @@ footer {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 4;
   /* 顯示行數 Chrome&Safari */
-  max-height: calc((1em * 1.5 * 4));
+  height: calc((1em * 1.5 * 4));
   /* 顯示高度 IE&Firefox */
   overflow: hidden;
   text-overflow: ellipsis;

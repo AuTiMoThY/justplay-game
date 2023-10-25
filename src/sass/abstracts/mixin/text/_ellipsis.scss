@@ -13,7 +13,7 @@
     -webkit-box-orient: vertical;
     -webkit-line-clamp: $line;
     /* 顯示行數 Chrome&Safari */
-    max-height : calc((1em * #{$lineHeight} * #{$line}));
+    height : calc((1em * #{$lineHeight} * #{$line}));
     /* 顯示高度 IE&Firefox */
     overflow: hidden;
     text-overflow: ellipsis;

@@ -20,7 +20,7 @@ body {
   position: relative;
   overflow-x: hidden;
   scroll-behavior: smooth;
-  font-family: "Open Sans","Noto Sans TC",sans-serif;
+  font-family: "Open Sans", "Noto Sans TC", sans-serif;
   background-color: #F6F6F6;
   color: #1A1A1A; }
 
@@ -170,7 +170,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
   margin-bottom: 60px; }
 
 .page-title .mtitle {
-  font-family: "VT323",monospace;
+  font-family: "VT323", monospace;
   color: #F7AE21; }
 
 @media (max-width: 575px) {
@@ -270,7 +270,7 @@ h3.title-yel {
   background-color: #F7AE21;
   padding-left: 1em;
   padding-right: 1em;
-  font-family: "VT323",monospace; }
+  font-family: "VT323", monospace; }
 
 @media (max-width: 575px) {
   .btn.more span {
@@ -427,12 +427,12 @@ select {
 .price {
   color: #FF2B2B;
   font-weight: 600;
-  font-family: "Open Sans",sans-serif; }
+  font-family: "Open Sans", sans-serif; }
 
 .marquee {
   overflow: hidden;
   position: relative;
-  font-family: "VT323",monospace;
+  font-family: "VT323", monospace;
   width: 100%;
   height: 1em;
   color: white;
@@ -665,19 +665,19 @@ header .searchbx.in-active {
 
 header .searchbx ::-webkit-input-placeholder {
   color: #959595;
-  font-family: "Noto Sans TC",sans-serif; }
+  font-family: "Noto Sans TC", sans-serif; }
 
 header .searchbx :-moz-placeholder {
   color: #959595;
-  font-family: "Noto Sans TC",sans-serif; }
+  font-family: "Noto Sans TC", sans-serif; }
 
 header .searchbx ::-moz-placeholder {
   color: #959595;
-  font-family: "Noto Sans TC",sans-serif; }
+  font-family: "Noto Sans TC", sans-serif; }
 
 header .searchbx :-ms-input-placeholder {
   color: #959595;
-  font-family: "Noto Sans TC",sans-serif; }
+  font-family: "Noto Sans TC", sans-serif; }
 
 header .btngroup {
   display: -webkit-box;
@@ -995,16 +995,16 @@ footer li a, footer li span {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap; }
   footer li {
-    margin-right: 64px;
-    min-width: 6em; }
+    /* margin-right: 64px; */
+    /* min-width: 6em */ }
   footer li.fb-box {
     width: 425px;
-    margin-right: 90px; }
+    /* margin-right: 90px */ }
   footer li.mr50 {
-    margin-right: 60px; }
+    /* margin-right: 60px */ }
   footer li.store {
     min-width: 320px;
-    margin-right: 0; }
+    /* margin-right: 0 */ }
   footer .copyright {
     position: absolute;
     left: 16px; }
@@ -1036,5 +1036,15 @@ footer li a, footer li span {
   height: 58px;
   border-radius: 0 8px 8px 0;
   background-color: #d8d8d8; }
+
+@media (min-width: 769px) {
+  footer .fmenu {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between; }
+  footer .fmenu li {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 80px;
+            flex: 0 0 80px; } }
 
 /*# sourceMappingURL=main.css.map */
